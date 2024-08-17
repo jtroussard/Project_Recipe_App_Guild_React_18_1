@@ -1,0 +1,4 @@
+node_modules
+.qualified-attach
+docs
+__mocks__/
